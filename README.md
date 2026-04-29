@@ -1,5 +1,9 @@
 # Hallmarks of Cancer Scoring in Single-Cell RNA-seq
 
+# scCancerHallmarks
+
+A pipeline to quantify Hallmarks of Cancer activity in single-cell RNA-seq data.
+
 ## Overview
 
 This repository provides a reproducible and user-friendly pipeline to compute and visualize hallmarks of cancer gene set activity in single-cell RNA-seq (scRNA-seq) data using Seurat.
