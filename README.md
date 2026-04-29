@@ -1,6 +1,6 @@
 # Hallmarks of Cancer Scoring in Single-Cell RNA-seq
 
-# scCancerHallmarks
+# Scoring-HallmarksOfCancer_scRNAseq
 
 A pipeline to quantify Hallmarks of Cancer activity in single-cell RNA-seq data.
 
