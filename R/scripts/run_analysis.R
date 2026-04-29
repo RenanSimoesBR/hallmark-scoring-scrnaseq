@@ -10,7 +10,7 @@ seurat_obj <- readRDS("data/seurat_object.rds")
 #-----------------------------
 # Load hallmark file
 #-----------------------------
-hallmark_data <- read_hallmark_file("data/mmc2.xlsx")
+hallmark_data <- read_hallmark_file("data/hallmarks_genes.xlsx")
 
 hallmarks <- hallmark_data$gene_sets
 
