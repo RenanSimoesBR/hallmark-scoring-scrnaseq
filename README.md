@@ -1,8 +1,8 @@
-# Hallmark Scoring in Single-Cell RNA-seq
+# Hallmarks of Cancer Scoring in Single-Cell RNA-seq
 
 ## Overview
 
-This repository provides a reproducible and user-friendly pipeline to compute and visualize hallmark gene set activity in single-cell RNA-seq (scRNA-seq) data using Seurat.
+This repository provides a reproducible and user-friendly pipeline to compute and visualize hallmarks of cancer gene set activity in single-cell RNA-seq (scRNA-seq) data using Seurat.
 
 The workflow enables the integration of curated hallmark gene sets (derived from published literature) into single-cell analysis, allowing the exploration of biological processes at cellular resolution.
 
@@ -149,12 +149,11 @@ plot_hallmark_boxplot(
 
 The hallmark gene sets used in this repository were derived from:
 
-**[INSERT FULL CITATION HERE]**
+**Sibai M, Cervilla S, Grases D ...
+The spatial landscape of cancer hallmarks reveals patterns of tumor ecological dynamics and drug sensitivity
+Cell Reports, 2025; 44
+DOI: 10.1016/j.celrep.2024.115229**
 
-Example format:
-
-Author(s). *Title of the study*. Journal, Year.
-DOI: https://doi.org/XXXX
 
 Please cite the original publication when using these gene sets.
 
