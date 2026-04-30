@@ -110,7 +110,7 @@ The pipeline generates:
 
 #### Hallmark activity across cell types
 
-![Boxplots](outputs/Boxplots_Hallmarks.png)
+![Boxplots](outputs/Boxplots_Hallmarks_with_Stats.png)
 
 ---
 
