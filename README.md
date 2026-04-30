@@ -117,22 +117,6 @@ plot_hallmark_boxplot(
 )
 ```
 
----
-
-## Results
-
-### UMAP visualization of hallmark activity
-
-![UMAP]([R/outputs/UMAP_hallmarks.png)
-
----
-
-### Hallmark activity across cell types
-
-![Boxplots](R/outputs/boxplots_hallmarks.png)
-
----
-
 ## Output
 
 * Updated Seurat object containing hallmark scores in metadata
