@@ -104,7 +104,7 @@ The pipeline generates:
 
 #### UMAP projection
 
-![UMAP](outputs/UMAP_Hallmark_Scores.png)
+![UMAP](outputs/UMAPs_Hallmark_Scores.png)
 
 ---
 
