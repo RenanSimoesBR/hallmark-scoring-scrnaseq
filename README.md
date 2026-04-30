@@ -123,7 +123,7 @@ plot_hallmark_boxplot(
 
 ### UMAP visualization of hallmark activity
 
-![UMAP]([R/outputs/UMAP_hallmarks.png](https://github.com/RenanSimoesBR/hallmark-scoring-scrnaseq/blob/main/R/outputs/UMAP_hallmarks.png))
+![UMAP]([R/outputs/UMAP_hallmarks.png)
 
 ---
 
